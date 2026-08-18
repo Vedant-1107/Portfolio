@@ -31,7 +31,7 @@ export const projects: Project[] = [
     github:
       "https://github.com/Vedant-1107/GitBud",
     live:
-      "git-bud.vercel.app",
+      "https://git-bud.vercel.app",
     featured: true,
     status: "live",
   },
