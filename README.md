@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vedant Salunkhe — Portfolio
 
-## Getting Started
+> A personal portfolio built around the things I love to build.
 
-First, run the development server:
+A modern, minimal portfolio showcasing my work across **AI, Computer Vision, Full-Stack Development, and Software Engineering**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Featured Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### GitBud
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+An AI-powered GitHub companion designed to make unfamiliar repositories easier to understand through repository visualization, code explanations, and intelligent analysis.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Built with:** React · FastAPI · MongoDB Atlas · Hugging Face · LLaMA-3
 
-## Learn More
+## Other Projects
 
-To learn more about Next.js, take a look at the following resources:
+* **FlickFinder** — Full-stack movie discovery platform
+* **License Plate Recognition** — Real-time computer vision & OCR system
+* **DevOS** — A developer-focused project currently in development
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Built With
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Next.js · TypeScript · Tailwind CSS · Framer Motion · Hugeicons**
 
-## Deploy on Vercel
+## Connect
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Vedant Salunkhe**
+Computer Engineering Student · Pune, India
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[GitHub](YOUR_GITHUB_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:vedantsalunkhe1107@gmail.com)
+
+---
+
+*Designed and built from scratch.*
