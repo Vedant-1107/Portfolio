@@ -11,7 +11,7 @@ export const personal = {
   github:
     "https://github.com/Vedant-1107",
   linkedin:
-    "www.linkedin.com/in/vedant-salunkhe-6961b5305",
+    "https://linkedin.com/in/vedant-salunkhe-6961b5305",
   resume:
     "/resume.pdf",
   status: "Open to opportunities",
